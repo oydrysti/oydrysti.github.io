@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oydrysti.github.io/sitemap.oydrysti.gz
+Sitemap: https://oydrysti.github.io/app/sitemap.oydrysti.gz
+Sitemap: https://oydrysti.github.io/assets/sitemap.oydrysti.gz
+Sitemap: https://oydrysti.github.io/css/sitemap.oydrysti.gz
+Sitemap: https://oydrysti.github.io/data/sitemap.oydrysti.gz
+Sitemap: https://oydrysti.github.io/includes/sitemap.oydrysti.gz
+Sitemap: https://oydrysti.github.io/item/sitemap.oydrysti.gz
+Sitemap: https://oydrysti.github.io/src/sitemap.oydrysti.gz
